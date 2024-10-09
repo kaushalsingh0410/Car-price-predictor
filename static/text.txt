@@ -1,0 +1,10 @@
+hi ritu
+
+
+
+// $('#company').change(function(){
+        //   var company = $(this).val();
+        //   console.log('ritu company',company)
+        //   var modelList = {{ models | tojson }};
+        //   console.log('ritu model', )
+        // })
